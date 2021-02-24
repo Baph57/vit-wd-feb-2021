@@ -11,7 +11,7 @@
 ### Learning Objectives
 
 HTML Tags
-(W3)
+#(W3)
 - [br](https://www.w3schools.com/TAGs/tag_br.asp)
 - [hr](https://www.w3schools.com/TAGs/tag_hr.asp)
 - [script](https://www.w3schools.com/TAGs/tag_script.asp)
@@ -26,7 +26,7 @@ HTML Tags
 - [video](https://www.w3schools.com/TAGs/tag_video.asp)
 - [source](https://www.w3schools.com/TAGs/tag_source.asp)
 
-(MDN)
+#(MDN)
 - [br](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br)
 - [hr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr)
 - [script](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script)
