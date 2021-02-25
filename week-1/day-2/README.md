@@ -11,6 +11,7 @@
 ### Learning Objectives
 
 HTML Tags
+<<<<<<< HEAD
 
 ### (W3)
 - [br](https://www.w3schools.com/TAGs/tag_br.asp)
@@ -28,6 +29,8 @@ HTML Tags
 - [source](https://www.w3schools.com/TAGs/tag_source.asp)
 
 ### (MDN)
+=======
+>>>>>>> 8fe1debc00e62ac799b42dcf2356cc13b85364eb
 - [br](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br)
 - [hr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr)
 - [script](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script)
@@ -42,12 +45,18 @@ HTML Tags
 - [video](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
 - [source](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source)
 
+<<<<<<< HEAD
 ### Exit Ticket
+=======
+
+### Exercise
+>>>>>>> 8fe1debc00e62ac799b42dcf2356cc13b85364eb
   
 - Build Table with music player embedded
 
 Steps.
-1. Create an exitTicket_day2.html file.
+1. Create an exercise.html file.
 2. Implement the mockup below
 3. stage, commit, and push your changes back up to your repository
+
 [Imgur](https://i.imgur.com/6z6Pj5k.png)
