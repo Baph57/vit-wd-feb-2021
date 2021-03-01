@@ -1,0 +1,30 @@
+body {
+    background-color: green;
+    width: 100vw;
+}
+
+div {
+    color: blue;
+    width: 33%;
+}
+
+.all {
+    color:pink;
+    height: 400px;
+    background-color: yellow;
+    border: 1px dotted orange;
+    font-size: 10px;
+    width: 100%;
+}
+
+.col {
+    height: 100%;
+    width: 30%;
+    display: inline-block;
+    border: inset 5px black;
+    margin: 0px 1.5%;
+}
+
+#midColumn {
+    font-size: 100px;
+}
