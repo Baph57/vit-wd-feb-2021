@@ -1,0 +1,29 @@
+#flex {
+  display: flex;
+  flex-direction: column;
+  background-color: yellow;
+}
+
+.box {
+  width: 500px;
+  border: inset 5px goldenrod;
+  background-image: linear-gradient(
+    to right,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet
+  );
+}
+
+body {
+  height: 100vh;
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(0, 247, 255),
+    rgb(247, 0, 255)
+  );
+}
