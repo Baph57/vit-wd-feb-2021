@@ -1,27 +1,41 @@
-body, #container {
+body {
     background-color: gray;
     height: 100vh;
     width: 100vw;
 }
 
-/* #container {
+#container {
     width: 100%;
     height: 100%;
-    display: flex;
-    flex-direction: row;
-} */
-
-.column1, #column2, #column3, div, p, div.column1 {
-
-    background-color: hotpink;
-    height: 500px;
-    width: 300px;
-    border: solid green 5px;
-    /* float: left; */
-    margin: 100px;
+    display:inline-block;
 }
 
-#puppy {
+.column {
+    height: 80%;
+    width: 30%;
+    border: solid green 5px;
+    display: inline-block;
+    float: left;
+    margin: 10px;
+}
+
+#puppy1 {
+    width: 50%;
+    margin: 0 23%;
+    height: 50%;
+}
+
+#puppy2, #puppy3 {
     width: 50%;
     height: 50%;
+}
+
+.titleLeft {
+    font-size: 80px;
+    display: inline;
+    margin: 0 20%;
+}
+#subtitleLeft {
+    font-size: 56px;
+    display: inline;
 }
